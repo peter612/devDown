@@ -10,6 +10,7 @@
     <name>devDown</name>
 
     <properties>
+        <!-- Git test r2_pom -->
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <!-- Spring -->
