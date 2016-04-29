@@ -13,5 +13,6 @@
         <p>Git branche r2_index</p>
         <p>Git second commit to branch r2_index</p>
         <p>Git second commit to branch r2_index, appendix</p>
+        <p>Git first commit to branch r2_index2</p>
     </body>
 </html>
