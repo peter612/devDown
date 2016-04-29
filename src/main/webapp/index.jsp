@@ -11,5 +11,7 @@
         <h1>Hello World!</h1>
         <a href="employeeList.html">Show All persons via JPA</a>
         <p>Git branche r2_index</p>
+        <p>Git second commit to branch r2_index</p>
+        <p>Git second commit to branch r2_index, appendix</p>
     </body>
 </html>
