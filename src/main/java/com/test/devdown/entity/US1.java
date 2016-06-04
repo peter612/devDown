@@ -29,4 +29,7 @@ public class US1 {
     
     @Column(name = "SURNAME")
     private String surname;
+    
+    @Column(name = "TEST2")
+    private String test2;
 }
