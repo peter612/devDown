@@ -24,7 +24,9 @@ public class US1 {
     @GeneratedValue(strategy = GenerationType.AUTO)
     private long id;
     
-    @Column(name="name")
+    @Column(name="NAME")
     private String name;
     
+    @Column(name = "SURNAME")
+    private String surname;
 }
