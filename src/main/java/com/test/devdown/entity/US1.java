@@ -36,6 +36,12 @@ public class US1 {
     @Column(name = "TEST2")
     private String test2;
     
-    @Column(name = "Stach")
+    @Column(name = "STACH")
     private String stach;
+    
+    @Column(name = "STACH2")
+    private String stach2;
+    
+    @Column(name = "STACH3")
+    private String stach3;
 }
