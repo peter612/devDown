@@ -35,4 +35,7 @@ public class US1 {
 
     @Column(name = "TEST2")
     private String test2;
+    
+    @Column(name = "Stach")
+    private String stach;
 }
