@@ -35,4 +35,13 @@ public class US1 {
 
     @Column(name = "TEST2")
     private String test2;
+    
+    @Column(name = "STASH")
+    private String stash;
+    
+    @Column(name = "STASH2")
+    private String stash2;
+    
+    @Column(name = "STASH3")
+    private String stash3;
 }
